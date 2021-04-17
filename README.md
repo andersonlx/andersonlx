@@ -1,4 +1,4 @@
-## Oiii! 👋 Eu sou o Anderson Xavier <img align="center" alt="ALX-Dog" height="60" width="80" src="https://estrelinhasnoceu.com.br/wp-content/uploads/2019/11/tenor-1.gif">
+## Oiii! 👋 Eu sou o Anderson Xavier
 <a href="https://github.com/andersonlx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andersonlx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andersonlx&layout=compact&langs_count=8&theme=dracula"/>
@@ -12,8 +12,9 @@
   <img align="center" alt="ALX-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="ALX-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="ALX-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="ALX-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-   <img align="center" alt="ALX-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="ALX-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="ALX-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="right" alt="Rafa-yoda" src="https://estrelinhasnoceu.com.br/wp-content/uploads/2019/11/tenor-1.gif">
 </div>
   
   ##
