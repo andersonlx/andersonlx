@@ -12,7 +12,7 @@
   <img align="center" alt="ALX-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="ALX-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ALX-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Rafa-yoda" height="80" width="80" src="https://estrelinhasnoceu.com.br/wp-content/uploads/2019/11/tenor-1.gif">
+  <img align="right" alt="Rafa-yoda" height="100" width="100" src="https://estrelinhasnoceu.com.br/wp-content/uploads/2019/11/tenor-1.gif">
 </div>
   
   ##
